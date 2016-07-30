@@ -6,6 +6,7 @@
     "bluebird": "^3.4.1",
     "esprima": "^2.7.2",
     "github": "^2.3.0",
+    "jquery.fancytree": "^2.18.0",
     "jsonfile": "^2.3.1",
     "mongodb": "^2.2.4",
     "node-uuid": "^1.4.7",
@@ -16,13 +17,15 @@
     "util": "^0.10.3",
     "vm": "^0.1.0",
     "winston": "^2.2.0"
-	},
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/QuranPalace/Qurantron"
   },
   "keywords": [
-    "mongo", "Quran", "electron"
+    "mongo",
+    "Quran",
+    "electron"
   ],
   "author": "Meisam Ahmadi",
   "license": "MIT"
